@@ -2,3 +2,4 @@
 %project=sqitch_ex
 %uri=https://github.com/jmignac/sqitch-ex/
 
+appschema 2016-12-14T18:23:00Z Jesse Mignac <jmignac@gmail.com> # Add schema for all project objects.
