@@ -6,3 +6,4 @@ appschema 2016-12-14T18:23:00Z Jesse Mignac <jmignac@gmail.com> # Add schema for
 users [appschema] 2016-12-14T19:32:46Z Jesse Mignac <jmignac@gmail.com> # Create users table
 insert_user [users appschema] 2016-12-14T20:00:25Z Jesse Mignac <jmignac@gmail.com> # Creates a function to insert a user.
 change_pass [users appschema] 2016-12-14T20:00:38Z Jesse Mignac <jmignac@gmail.com> # Creates a function to change a user password.
+@v1.0.0-dev1 2016-12-14T20:16:13Z Jesse Mignac <jmignac@gmail.com> # Tag v1.0.0-dev1
