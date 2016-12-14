@@ -9,3 +9,4 @@ change_pass [users appschema] 2016-12-14T20:00:38Z Jesse Mignac <jmignac@gmail.c
 @v1.0.0-dev1 2016-12-14T20:16:13Z Jesse Mignac <jmignac@gmail.com> # Tag v1.0.0-dev1
 
 catalogs [appschema] 2016-12-14T20:43:00Z Jesse Mignac <jmignac@gmail.com> # Add catalogs table.
+@v1.0.0-dev2 2016-12-14T20:58:01Z Jesse Mignac <jmignac@gmail.com> # Tag v1.0.0-dev2.
