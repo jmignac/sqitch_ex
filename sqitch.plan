@@ -4,3 +4,5 @@
 
 appschema 2016-12-14T18:23:00Z Jesse Mignac <jmignac@gmail.com> # Add schema for all project objects.
 users [appschema] 2016-12-14T19:32:46Z Jesse Mignac <jmignac@gmail.com> # Create users table
+insert_user [users appschema] 2016-12-14T20:00:25Z Jesse Mignac <jmignac@gmail.com> # Creates a function to insert a user.
+change_pass [users appschema] 2016-12-14T20:00:38Z Jesse Mignac <jmignac@gmail.com> # Creates a function to change a user password.
