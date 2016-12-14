@@ -3,3 +3,4 @@
 %uri=https://github.com/jmignac/sqitch-ex/
 
 appschema 2016-12-14T18:23:00Z Jesse Mignac <jmignac@gmail.com> # Add schema for all project objects.
+users [appschema] 2016-12-14T19:32:46Z Jesse Mignac <jmignac@gmail.com> # Create users table
